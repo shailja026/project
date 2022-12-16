@@ -1,0 +1,28 @@
+.imge{
+  flex-direction: column;  
+
+}
+#navbar{
+overflow: hidden;
+}
+.box{
+overflow: hidden;
+}
+.sec{
+overflow: hidden;
+}
+#main{
+overflow: hidden;
+}
+#clint{
+overflow: hidden;
+flex-wrap: wrap;
+}
+#offer{
+overflow: hidden;
+flex-wrap: wrap;
+
+}
+#offer::before{
+    height: fit-content;
+}
